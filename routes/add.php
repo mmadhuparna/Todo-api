@@ -27,8 +27,8 @@
     if($item->addTodo())
     
     {
-        echo 'Employee created successfully.';
+        echo 'Task created successfully.';
     } else{
-        echo 'Employee could not be created.';
+        echo 'Task could not be created.';
     }
 ?>
